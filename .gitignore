@@ -1,0 +1,4 @@
+# 要從 Git 移除的文件夾
+__pycache__/
+.vscode/
+.venv/
