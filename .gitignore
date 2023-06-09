@@ -2,3 +2,6 @@
 __pycache__/
 .vscode/
 .venv/
+data.db/
+*.pyc/
+.DS_Store/
